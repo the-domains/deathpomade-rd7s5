@@ -1,4 +1,3 @@
-layout_spectrum: 0.7008629720658064
 typography_spectrum: 0.4877908464986831
 color:
   brandStrength: 0.8249303435441107
@@ -11,5 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.7008629720658064
 name: DEATHPOMADE
 title: DEATH POMADE
+description: worth it
