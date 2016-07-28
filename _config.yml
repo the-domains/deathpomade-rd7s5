@@ -1,16 +1,28 @@
+layout_spectrum: 0.7008629720658064
+description: worth it
+name: DEATHPOMADE
 typography_spectrum: 0.4877908464986831
 color:
   brandStrength: 0.8249303435441107
-  lightness: 0.4535918817855418
   saturation: 0.32418407429941
-  rhythmicContrast: 0.9635015316307545
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-layout_spectrum: 0.7008629720658064
-name: DEATHPOMADE
+  lightness: 0.4535918817855418
+  rhythmicContrast: 0.9635015316307545
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 title: DEATH POMADE
-description: worth it
