@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DEATH POMADE]]></title>
         <description><![CDATA[DEATH POMADE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deathpomade-rd7s5/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 07:39:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Aug 2016 05:55:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deathpomade-rd7s5/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PRODUCT]]></title>
+            <description><![CDATA[<article><h1>PRODUCT</h1><p>Death Pomade Heavy is not for the beginner, it is a very heavy hold with medium shiny. Use 2-4 scoop and it will hold your hair all day long. The scent of this pomade is Cigar Leather, the masculine smell will blend with your parfum and will not ruins your day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e8b60da600835ee05edacf5b9bbb8e0c4669c18.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4067fb85-8f50-4517-bd17-00063d946ae6.jpg</link>
+            <guid isPermaLink="false">8d26a23e-df21-4450-a4e2-d7e050d06adb</guid>
+            <pubDate>Wed, 24 Aug 2016 05:55:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/298e6d4c-41a4-48d8-a6a4-b08cf0ae65f6.jpg">]]></description>
-            <link>undefinedcd13e332-af2c-47a3-b384-0650196af7c6/index.html</link>
+            <link>https://thegrid.ai/deathpomade-rd7s5/cd13e332-af2c-47a3-b384-0650196af7c6/index.html</link>
             <guid isPermaLink="false">cd13e332-af2c-47a3-b384-0650196af7c6</guid>
             <pubDate>Thu, 28 Jul 2016 07:38:46 GMT</pubDate>
         </item>
